@@ -617,3 +617,28 @@ if ($products->have_posts()) {
 
 </html>
 
+
+
+<!-- Это верстка к bootstrap_4_walker_nav_menu из файла functions.php -->
+<!-- 
+<ul>
+    <li>
+        <a class="nav-link" href="/">Главная</a>
+    </li>
+    <li class="nav-item dropdown">
+        <a 
+        class="nav-link dropdown-toggle"
+        href="#"
+        id="navbarWelcome"
+        role="button"
+        data-toggle="dropdown"
+        aria-haspopup="true"
+        aria-expanded="false"
+        >О нас</a>
+
+        <div class="dropdown-menu" aria-labelledby="navbarWelcome"> 
+            <a class="dropdown-item" href="about.html">О компании</a>
+            <a class="dropdown-item" href="about.html">Об услугах</a>
+        </div>
+    </li>
+</ul> -->
